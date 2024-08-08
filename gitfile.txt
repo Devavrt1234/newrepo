@@ -1,2 +1,2 @@
-
+this is the line to raise merge conflict by bug-fix file
 ths is the git file for various tasks
