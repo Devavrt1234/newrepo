@@ -1,2 +1,3 @@
 this is the new content added
 ths is the git file for various tasks
+this is the line to raise merge conflict by master branch
