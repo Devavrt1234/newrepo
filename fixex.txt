@@ -1,3 +1,4 @@
 this is new bug fix line
 this is new bug fix line 23:28
 this is bug fix file
+this is stash fix 
