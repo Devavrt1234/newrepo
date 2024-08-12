@@ -7,3 +7,4 @@ this is stash rename demo line
 this is another bug fix
 this is change in working area/tree
 this is change in fix.txt file
+this is change in fix.txt file again
