@@ -5,3 +5,5 @@ this is stash fix
 this is push check line
 this is stash rename demo line 
 this is another bug fix
+this is change in working area/tree
+this is change in fix.txt file
